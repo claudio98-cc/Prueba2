@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="login_email">Email</string>
+    <string name="login_pass">Contraseña</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="recuperar_pass">¿Olvido su contraseña?</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="crear_nombre">Ingrese su nombre</string>
+    <string name="crear_cuenta_email">Ingrese su Email</string>
+    <string name="crear_cuenta_pass">Ingrese su contraseña</string>
+    <string name="crear_cuenta_pass_rep">Ingrese nuevamente su contraseña</string>
+    <string name="btn_crearcuenta">Crear Cuenta</string>
+    <string name="bt_regresar">Regresar</string>
+    <string name="home">@string/login_email</string>
+    <string name="home_text">Bienvenido a la aplicacion</string>
+</resources>
